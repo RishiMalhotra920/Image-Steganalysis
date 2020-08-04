@@ -29,7 +29,7 @@ More specifically, for a given image, our algorithm outputted a positive number 
 
 ## Scoring
 
-We evaluated our submissions on a weighted AUC
+We evaluated our submissions on a [weighted AUC](https://www.kaggle.com/c/alaska2-image-steganalysis/overview/evaluation)
 
 tpr_thresholds = \[0.0, 0.4, 1.0]
 weights = \[2, 1]
