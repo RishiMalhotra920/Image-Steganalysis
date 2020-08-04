@@ -3,7 +3,6 @@
 [Steganography](https://hal-utt.archives-ouvertes.fr/hal-02542075/document) is usually referred to as the techniques and methods that allow to hide information within an innocuous-like cover object. The resulting stego-object resembles, as much as possible, the original cover object. Therefore it can be sent over an unsecured communication channel that may be subject to wiretapping by an eavesdropper.
 
 This project was made for the [ALASKA2 Image Steganalysis competition on Kaggle](https://www.kaggle.com/c/alaska2-image-steganalysis).
-The four main techniques.
 
 
 
