@@ -39,6 +39,6 @@ We were glad to achieve a score of 0.797.
 
 ## To use
 
-[Format your data](https://www.kaggle.com/c/alaska2-image-steganalysis/data). 
-Load the effnet weights in effnetmodelv2.pth into the effnet-b0 model.
+[Format your data](https://www.kaggle.com/c/alaska2-image-steganalysis/data).\ 
+Load the effnet weights in effnetmodelv2.pth into the effnet-b0 model.\
 Run the test function on the network.
