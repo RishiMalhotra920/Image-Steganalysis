@@ -34,7 +34,7 @@ We evaluated our submissions on a [weighted AUC](https://www.kaggle.com/c/alaska
 tpr_thresholds = \[0.0, 0.4, 1.0]
 weights = \[2, 1]
 
-We were glad to achieve a score of 0.797.
+We were happy to achieve a score of 0.797.
 
 
 ## To use
