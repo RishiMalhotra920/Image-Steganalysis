@@ -7,6 +7,7 @@ This project was made for the [ALASKA2 Image Steganalysis competition on Kaggle]
 
 
 
+
 ## Purpose
 [Data](https://www.kaggle.com/c/alaska2-image-steganalysis/data) can be hidden within images using 3 main algorithms - JMiPOD, JUNIWARD, UERD.
 The average message length is 0.4 bit per non-zero AC DCT coefficient.
